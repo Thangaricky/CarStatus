@@ -1,0 +1,22 @@
+[{ "address": "Cementvägen 8, 111 11 Södertälje",
+  "company_name": "Kalles Grustransporter AB",
+  "vehicle_list": [
+    {"VIN": "YS2R4X20005399401", "reg_no": "ABC123", "status":"connected"},
+    {"VIN": "VLUR4X20009093588", "reg_no": "DEF456", "status":"connected"},
+    {"VIN": "VLUR4X20009048066", "reg_no": "GHI789", "status":"disconnected"}
+    ]},
+
+{"address": "Balkvägen 12, 222 22 Stockholm",
+  "company_name": "Johans Bulk AB",
+"vehicle_list": [
+  {"VIN": "YS2R4X20005388011", "reg_no": "JKL012", "status":"disconnected"},
+  {"VIN": "YS2R4X20005387949", "reg_no": "MNO345", "status":"connected"}
+]},
+
+{"address": "Budgetvägen 1, 333 33 Uppsala",
+  "company_name": "Haralds Värdetransporter AB",
+"vehicle_list": [
+  {"VIN": "YS2R4X20005387765", "reg_no": "PQR678", "status":"disconnected"},
+  {"VIN": "YS2R4X20005387055", "reg_no": "STU901", "status":"connected"}
+]}
+]
