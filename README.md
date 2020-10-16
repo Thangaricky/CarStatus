@@ -8,7 +8,7 @@ Pre requisite for running this application
 
 ## Development server
 
-In the terminal go to /CarStatus/main
+In your terminal go to "/CarStatus/main".
 Run `go build core.go` to start the application.
 In the browser navigate to `http://localhost:8231/car/overview` to list all the car details.
 
